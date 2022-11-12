@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "eureka",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xmartlabs/Eureka",
+      "state" : {
+        "branch" : "master",
+        "revision" : "488a4cff24f79a0f7fbd0ffc33ac789e8f178fc0"
+      }
+    },
+    {
+      "identity" : "lister",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jeytery/Lister",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6845c81d9b717a1b3dedceb73b07a9e43a46ea64"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
